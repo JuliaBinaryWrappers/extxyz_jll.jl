@@ -1,0 +1,143 @@
+[[extxyz]]
+arch = "aarch64"
+git-tree-sha1 = "6cd7a7e0ee5d1a7c70d66ca6c704c6495f6eac3d"
+os = "macos"
+
+    [[extxyz.download]]
+    sha256 = "29720a4e8ad1f8ab2d6e3e94ac71af5ec22b22e68333d5577d155d1b8778069a"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[extxyz]]
+arch = "aarch64"
+git-tree-sha1 = "9ad72e9cbfbca8582f715aa5e8225939cfc572db"
+libc = "glibc"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "2598e32778137e7c52feab425948716621eda5dd9fe9df544d3e38c8276dd110"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[extxyz]]
+arch = "aarch64"
+git-tree-sha1 = "c7c23422287d19a1060f208f0ceb9a0559ab7345"
+libc = "musl"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "1bfeb18957bf37eba695ff2b31c93dada83c0782f71c06e8c40f25cf6ed898d6"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.aarch64-linux-musl.tar.gz"
+[[extxyz]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cf4a6d5bc42463ce884f3f2a3903ab2636f8f43e"
+libc = "glibc"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "8e8f9f42ec9a9b4c040a038a64cca6d4ae63f9d029468b5248854b00af4d6c2e"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[extxyz]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8ed89903d2dd31bae858f96d957d05819c59fb83"
+libc = "musl"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "ee0453863000abeb4822259a7627ded7bf8f0e13c33a332d569a8ce75ff6ff55"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[extxyz]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e9853734dbec42c6a4fede19e7c25a2b62389c65"
+libc = "glibc"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "6bfd8f44ba50481852f12920c1aaaa3bdfe8f29893c2bc43bf4cf0c8115d5d55"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[extxyz]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b77cb6ef9157b6eb2f9e3fbe594a424d0ef1abde"
+libc = "musl"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "69f0d6c643677e593b8846ee41a57b8b63b78dcf05e4484b11d2dc8b1f728441"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[extxyz]]
+arch = "i686"
+git-tree-sha1 = "6b7f4ae02032d80c3a112162c32f719ddc39f1c5"
+libc = "glibc"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "9edbc81bbb7ffd630872bcb1f291f75e9079239d857a90671e5dad2448810258"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.i686-linux-gnu.tar.gz"
+[[extxyz]]
+arch = "i686"
+git-tree-sha1 = "8f27edc38440b9be45b8981cbcf6561e526e888a"
+libc = "musl"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "0e48ae11fde45586406a7597054329962ca31137afdc35c3809b2ff519ac4025"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.i686-linux-musl.tar.gz"
+[[extxyz]]
+arch = "i686"
+git-tree-sha1 = "064a0e9fa96bc00123e0e7a8c237881bb162761c"
+os = "windows"
+
+    [[extxyz.download]]
+    sha256 = "813a9390e9d61cbd7aae05b072f39e0573d3a96e70de5ba47a4be8e98b1e6461"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.i686-w64-mingw32.tar.gz"
+[[extxyz]]
+arch = "powerpc64le"
+git-tree-sha1 = "82881e7334f2bc6065f6f2c52d8aff00459218e9"
+libc = "glibc"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "8501c092cb17e1c0858d8698080bed353ca75a5fe4db343ea8262ce073985262"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[extxyz]]
+arch = "x86_64"
+git-tree-sha1 = "d9d2db9b54236e7e0b7af72a4266cd1537d1c029"
+os = "macos"
+
+    [[extxyz.download]]
+    sha256 = "ec452a7e2e0b325abbd59679083c9bb4112fb033de0414904e75f044b2369801"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[extxyz]]
+arch = "x86_64"
+git-tree-sha1 = "fbfe3783f14afcb78aa4ace6f65cf3b8dd6729b6"
+libc = "glibc"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "49c15d1476e9ec628c3713faea6e5a14eefc4a61813949ff838c977ccef72f92"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[extxyz]]
+arch = "x86_64"
+git-tree-sha1 = "a4f7693cc3171dc98c7845b463e5d12d9a9c5615"
+libc = "musl"
+os = "linux"
+
+    [[extxyz.download]]
+    sha256 = "fc1360057ea5b3af976bff69427ba4bae4223ca620d8b85c94f42f65504bee9b"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.x86_64-linux-musl.tar.gz"
+[[extxyz]]
+arch = "x86_64"
+git-tree-sha1 = "69c145c0876264b47afa361f5a2d9ac162bb4054"
+os = "freebsd"
+
+    [[extxyz.download]]
+    sha256 = "d1005b9a4082e98df21987a7e32131322c98fac1f3ed5939d48c24bc13b2301a"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[extxyz]]
+arch = "x86_64"
+git-tree-sha1 = "a38798913eb89c616305ac079763104e3fd6b252"
+os = "windows"
+
+    [[extxyz.download]]
+    sha256 = "8af905b0898da141e04e76d68290960d7c4587b176b991e04a0894595180c047"
+    url = "https://github.com/JuliaBinaryWrappers/extxyz_jll.jl/releases/download/extxyz-v0.1.0+0/extxyz.v0.1.0.x86_64-w64-mingw32.tar.gz"
